@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/ip-address-traker-VhzTyywR9a)
+- Live Site URL: [link](https://ip-tracker-react-kappa.vercel.app/)
 
 ## My process
 
